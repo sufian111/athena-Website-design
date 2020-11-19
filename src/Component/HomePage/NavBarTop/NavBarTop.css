@@ -1,0 +1,13 @@
+.navButton {
+  border-radius: 15px 0 15px 0 !important;
+
+  background-image: linear-gradient(
+    rgba(22, 204, 198, 1) 6%,
+    rgba(34, 228, 169, 1) 28%,
+    rgba(15, 191, 213, 1) 92%
+  );
+  border: none;
+}
+.textSize {
+  font-size: 18px;
+}
