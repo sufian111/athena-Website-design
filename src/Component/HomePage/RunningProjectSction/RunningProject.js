@@ -21,9 +21,7 @@ const RunningProject = () => {
             of using Lorem Ipsum is that it has a more-or-less normal
             distribution of letter.
           </p>
-          <button className="text-white textSize p-2 navButton">
-            Contact Us
-          </button>
+          <button className="textSize p-2 navButton">Contact Us</button>
         </div>
       </div>
     </div>

@@ -30,9 +30,7 @@ const NavBarTop = () => {
             <Nav.Link className="textSize pr-4" href="#ourTeam">
               Our Team
             </Nav.Link>
-            <button className="text-white textSize p-2 navButton">
-              Contact Us
-            </button>
+            <button className=" textSize p-2 navButton">Contact Us</button>
           </Nav>
         </Navbar.Collapse>
       </Navbar>

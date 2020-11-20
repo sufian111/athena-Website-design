@@ -6,7 +6,7 @@ const HeadSection = () => {
       <div className="row p-5">
         <div className="col-md-6">
           <h1 className="bold">
-            Florence <br /> agency
+            Florence <br /> Agency
           </h1>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo
@@ -16,9 +16,7 @@ const HeadSection = () => {
             eligendi magni voluptates magnam! Laboriosam numquam praesentium ut
             illo natus accusantium esse distinctio totam aliquam sit.
           </p>
-          <button className="text-white textSize p-2 navButton">
-            See Pricing
-          </button>
+          <button className=" textSize p-2 navButton">See Pricing</button>
         </div>
         <div className="col-md-6">
           <img
