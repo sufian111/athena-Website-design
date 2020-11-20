@@ -1,0 +1,8 @@
+.navButton {
+  border-radius: 15px 0 15px 0 !important;
+  background-image: linear-gradient(90deg, #6be489, #0ff);
+  border: none;
+}
+.textSize {
+  font-size: 18px;
+}

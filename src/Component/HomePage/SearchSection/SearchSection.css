@@ -1,0 +1,23 @@
+.title {
+  font-weight: 500;
+  font-family: "Abril Fatface", cursive;
+}
+.inputSearch {
+  width: 30rem;
+  border: none;
+  height: 3rem;
+  padding-right: 50px;
+  box-shadow: 2px 2px 20px #d3d3d3;
+}
+.btnSearch {
+  border: none;
+  background: linear-gradient(
+    270deg,
+    #2af598 0,
+    #009efd 100%,
+    #000 0
+  ) !important;
+  margin-left: -4.2rem;
+  height: 2rem;
+  color: #fff;
+}
